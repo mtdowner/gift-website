@@ -64,7 +64,7 @@ header p {
   max-height: 400px;
   margin: 20px auto;
   border: .25rem solid #972fff;
-  background-image: url("box.png");
+  background-image: url("images/box.png");
   background-size: cover;
   padding: 1rem;
 }
